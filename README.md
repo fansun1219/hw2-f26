@@ -1,2 +1,2 @@
-# hw2-f26
-HW#2 for simple CSS
+# hw2_simple_css
+Starter code for simple css assignment
